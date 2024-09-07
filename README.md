@@ -62,5 +62,5 @@ The dataset consists of the following columns:
 - **Deployment**: Scikit-Learn Pipeline, Pickle
 
 ## YouTube Video
-[![Bengaluru House Price Prediction](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://youtu.be/P1iXa9DgXFA?si=uz7l92smtUOWFuvI)
+[![Bengaluru House Price Prediction](https://github.com/Tanmay8058/Bengaluru-House-Price-Prediction/blob/main/House%20Price%20Prediction%20Thumbnail.png)](https://youtu.be/P1iXa9DgXFA)
 
