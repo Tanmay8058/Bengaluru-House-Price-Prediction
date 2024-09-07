@@ -61,6 +61,7 @@ The dataset consists of the following columns:
 - **Techniques**: Cross-Validation, Hyperparameter Tuning, Imputation (KNN & Probabilistic), Feature Engineering, IQR Method for Outliers
 - **Deployment**: Scikit-Learn Pipeline, Pickle
 
-## YouTube Video
+## YouTube Video (Uncut Version) -- No Judgments🤪
+- Click on the thumbnail to see video.
 [![Bengaluru House Price Prediction](https://github.com/Tanmay8058/Bengaluru-House-Price-Prediction/blob/main/House%20Price%20Prediction%20Thumbnail.png)](https://youtu.be/P1iXa9DgXFA)
 
